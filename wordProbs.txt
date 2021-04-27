@@ -1,0 +1,11 @@
+COVID-19 0.00502681
+positive 0.000335121
+deaths 0.00100536
+test 0.00134048
+coughs 0
+droplets 0
+severe 0
+mild 0
+fever 0
+pneumonia 0
+asymptomatic 0
